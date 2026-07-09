@@ -1,6 +1,0 @@
-<Solution>
-  <Folder Name="/weatherApi/">
-    <Project Path="weatherApi/sampleWebApi.csproj" />
-  </Folder>
-  <Project Path="WeatherService.AppHost/WeatherService.AppHost.csproj" />
-</Solution>
