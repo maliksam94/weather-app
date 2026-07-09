@@ -1,0 +1,107 @@
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\appsettings.Development.json
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\appsettings.json
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\sampleWebApi.staticwebassets.endpoints.json
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\sampleWebApi.exe
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\sampleWebApi.deps.json
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\sampleWebApi.runtimeconfig.json
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\sampleWebApi.dll
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\sampleWebApi.pdb
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\sampleWebApi.xml
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\sample dotnet project\sampleWebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.csproj.AssemblyReference.cache
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.AssemblyInfoInputs.cache
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.AssemblyInfo.cs
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.csproj.CoreCompileInputs.cache
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\scopedcss\bundle\sampleWebApi.styles.css
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\staticwebassets.build.json
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\staticwebassets.development.json
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\swae.build.ex.cache
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWe.D04A76B6.Up2Date
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.dll
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\refint\sampleWebApi.dll
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.xml
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.pdb
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\sampleWebApi.genruntimeconfig.cache
+D:\Projects\sample dotnet project\sampleWebApi\obj\Debug\net10.0\ref\sampleWebApi.dll
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\appsettings.Development.json
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\appsettings.json
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\sampleWebApi.staticwebassets.endpoints.json
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\sampleWebApi.exe
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\sampleWebApi.deps.json
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\sampleWebApi.runtimeconfig.json
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\sampleWebApi.dll
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\sampleWebApi.pdb
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\IHttpClientFactory project\weatherApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWebApi.csproj.AssemblyReference.cache
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWebApi.AssemblyInfoInputs.cache
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWebApi.AssemblyInfo.cs
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWebApi.csproj.CoreCompileInputs.cache
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\scopedcss\bundle\sampleWebApi.styles.css
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\staticwebassets.build.json
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\staticwebassets.development.json
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\swae.build.ex.cache
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWe.D04A76B6.Up2Date
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWebApi.dll
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\refint\sampleWebApi.dll
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWebApi.pdb
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\sampleWebApi.genruntimeconfig.cache
+D:\Projects\IHttpClientFactory project\weatherApi\obj\Debug\net10.0\ref\sampleWebApi.dll
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\appsettings.Development.json
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\appsettings.json
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\sampleWebApi.staticwebassets.endpoints.json
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\sampleWebApi.exe
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\sampleWebApi.deps.json
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\sampleWebApi.runtimeconfig.json
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\sampleWebApi.dll
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\sampleWebApi.pdb
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Weather App Project\weatherApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWebApi.csproj.AssemblyReference.cache
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWebApi.AssemblyInfoInputs.cache
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWebApi.AssemblyInfo.cs
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWebApi.csproj.CoreCompileInputs.cache
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\scopedcss\bundle\sampleWebApi.styles.css
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\staticwebassets.build.json
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\staticwebassets.development.json
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\swae.build.ex.cache
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWe.D04A76B6.Up2Date
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWebApi.dll
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\refint\sampleWebApi.dll
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWebApi.pdb
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\sampleWebApi.genruntimeconfig.cache
+D:\Projects\Weather App Project\weatherApi\obj\Debug\net10.0\ref\sampleWebApi.dll
