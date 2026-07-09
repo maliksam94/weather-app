@@ -14,7 +14,7 @@ import { CurrentCondition } from '../../models/weather-response';
   styleUrls: ['./weather-ui.css'],
 })
 export class WeatherUi {
-  city = 'London';
+  city = '';
 
   loading = signal(false);
   error = signal('');
