@@ -1,2 +1,2 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+# sample-weather-app
+This is a sample project that I created to learn about Angular, .net10 WebApi and .NET Aspire. It is a simple web application that shows a city's weather details.
