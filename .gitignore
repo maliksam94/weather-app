@@ -69,3 +69,37 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Build results
+/bin/
+/obj/
+/debug/
+/release/
+/x64/
+/x86/
+/publish/
+/TestResults/
+
+# DLLs and executables
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Visual Studio files
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.bak
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+
+# VS Code workspace files
+*.code-workspace
+
+# Visual Studio workspace folder
+.vs/
