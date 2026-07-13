@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using sampleWebApi.Contracts;
 using sampleWebApi.Services;
 
@@ -5,6 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container
 builder.Services.AddControllers();
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AngularPolicy", policy =>
@@ -33,7 +35,6 @@ builder.Services.AddSwaggerGen(c =>
         Description = "This API provides weather forecast information."
     });    
 });
-
 
 var app = builder.Build();
 

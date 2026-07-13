@@ -10,7 +10,7 @@ export interface CurrentCondition {
   feelsLikeF?: string;
   weatherDesc?: { value?: string }[];
   humidity?: string;
-  cloudcover?: string;
+  cloudCover?: string;
   uvIndex?: string;
   windspeedKmph?: string;
   winddir16Point?: string;
